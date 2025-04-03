@@ -1,2 +1,2 @@
 # Learning-Python
-Exploring Python from the basics to advanced concepts! This repository contains hands-on exercises, projects, and notes to enhance my Python programming skills.
+Learning Python from basics to advanced! This repo, by **Engineer Rahmatullah Layeq**, includes exercises, projects, and notes to improve my skills.
